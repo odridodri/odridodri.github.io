@@ -55245,8 +55245,8 @@ A.Ad.prototype={
 V(a){var s=null
 return new A.r6(new A.td(new A.qf(s),s),"Happy Valentine's Day!",A.XD(s,A.a7t(B.M,s,s,B.Cz),A.aow().$0(),!0),!1,s)}}
 A.qf.prototype={
-am(){var s=t.s,r=A.d(["Happy Valentine's Day!","Terima kasih untuk pertemanan ini ;)","Sehat-sehat selalu B)"],s),q=A.d([],t.fT)
-return new A.uX(r,q,B.wd,A.d(["assets/fredhead.png","assets/mamafred.jpeg","assets/mamafred2.jpeg","assets/mamafred3.jpeg","assets/mamahead.png","assets/mamahead3.png","assets/mamahead4.png"],s),null,null)}}
+am(){var s=t.s,r=A.d(["You're doing amazing!","Keep up the great work!","I love you SO much!","You are the best ever.","Happy Valentine's Day My Toemmy!","I'm so blessed to have you :)","Can't wait to be with you 5Ever <3","I'm so so SO proud of you!","You are my one and only Pookie :3"],s),q=A.d([],t.fT)
+return new A.uX(r,q,B.wd,A.d(["assets/odrihead1.png","assets/odrihead2.png","assets/odrihead3.png"],s),null,null)}}
 A.uX.prototype={
 aA(){var s,r,q,p,o=this,n=null
 o.b1()
@@ -55302,8 +55302,8 @@ $0(){var s,r,q,p,o,n,m,l,k,j,i=this.a,h=i.z
 h===$&&A.b()
 h.sq(0)
 i.z.cV()
-if(i.f){i.d="Happy Valentine's Day Mr.Fred!"
-i.f=!1}else i.d=i.r[i.x.Gk(3)]
+if(i.f){i.d="Happy Valentine's Day My Toemmy!"
+i.f=!1}else i.d=i.r[i.x.Gk(9)]
 for(h=i.at,s=i.x,r=i.w,q=t.w,p=0;p<20;++p){o=s.wt()<0.7
 n=i.e++
 m=s.wt()
@@ -55311,7 +55311,7 @@ l=i.c
 l.toString
 l=A.d2(l,null,q).w
 k=s.wt()
-j=o?null:h[s.Gk(7)]
+j=o?null:h[s.Gk(3)]
 r.push(new A.jJ(n,m*l.a.a,-50,k*4+2,o,j))}},
 $S:0}
 A.a_g.prototype={
